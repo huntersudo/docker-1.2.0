@@ -1,0 +1,6 @@
+
+goland配置
+
+GOPATH=src/docker/docker
+
+project 的GOPATH=src/docker/docker/vendor
